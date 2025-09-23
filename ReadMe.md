@@ -1,5 +1,5 @@
 
- Data Analysis Project: Exoplanets Dataset Analysis 
+## Data Analysis Project: Exoplanets Dataset Analysis 
 
 In this project, I explore a dataset of exoplanets, planets outside our solar system, aiming to extract insights using data analysis techniques. The dataset contains information on 1013 exoplanets and their properties, including mass, radius, orbital period, orbital radius, and host star characteristics.
 
