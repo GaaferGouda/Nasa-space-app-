@@ -82,5 +82,5 @@ For a detailed report on the project, analysis, and conclusions, refer to the [P
 Feel free to explore, contribute, and use this project for your own analyses! 🚀✨
 ## 📄 License
 This project is licensed under the MIT License. See
-[LICENSE](License)
+[LICENSE](https://github.com/GaaferGouda/Nasa-space-app-/blob/main/License)
 for details.
